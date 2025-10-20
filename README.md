@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💭 I aspire to become a Data Analyst who turns data into meaningful insights.
+
+🌱 I’m currently learning Machine Learning and improving my analytical skills.
+💻 My core skills are SQL, Python, and Power BI.
+📈 I’m passionate about connecting data with real business impact.
+
+
+🛠️ Tech Stack
+💾 SQL ｜ 🐍 Python ｜ 📊 Power BI ｜ 🤖 Machine Learning (in progress)
+
+
+🎯 Goal
+To grow as a data-driven problem solver who can analyze, visualize, and communicate insights that lead to better decisions.
+
+📫 Contact
+📧 Email: [gowjd6408@naver.com]
