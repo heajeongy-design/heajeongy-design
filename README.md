@@ -8,7 +8,7 @@ I aspire to become a Data Analyst who turns data into meaningful insights.
 ---
 
 ### Tech Stack  
- SQL ｜  Python ｜  Power BI ｜ Machine Learning (in progress)
+ SQL ｜  Python ｜  Power BI ｜ Machine Learning ｜Azure Cloud Service (in progress)
 
 ---
 
