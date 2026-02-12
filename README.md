@@ -1,21 +1,28 @@
-## Hi there 
+## Hi there 👋
 
-I aspire to become a Data Analyst who turns data into meaningful insights.  
-- I’m currently learning Machine Learning and improving my analytical skills.  
-- My core skills are SQL, Python, and Power BI.  
-- I’m passionate about connecting data with real business impact.  
+I’m a **BI Engineer** currently working at an IT solution company.  
+I enjoy building data products that connect **data pipelines → analysis → visualization**.
 
----
+### Experience
+- **IT Solution Company** — BI Engineer (Current)
+- **Coupang Fulfillment Services** — RP (Research & Planning)  
+  - Supported data analysis for **Fresh South Region Center**
+  - Built **Power BI dashboards** as a project
 
-### Tech Stack  
- SQL ｜  Python ｜  Power BI ｜ Machine Learning ｜Azure Cloud Service (in progress)
+### What I’m Learning
+**Work-related**
+- Azure Cloud fundamentals *(in progress)*
+- Azure Data fundamentals
+- Data workflow management
+- Database design
 
----
+### Tech Stack
+SQL ｜ Python ｜ Power BI ｜ Azure *(in progress)*
 
-### Goal  
-To grow as a data-driven problem solver who can analyze, visualize, and communicate insights that lead to better decisions.
+### Goal
+To become a **Data Engineer** who can professionally handle the full data lifecycle:  
+**data ingestion & loading → modeling → analysis → visualization**.
 
----
-
-### Contact  
+### Contact
 Email: gowjd6408@naver.com
+
