@@ -5,7 +5,8 @@ I enjoy building data products that connect **data pipelines → analysis → vi
 
 ### Experience
 - **IT Solution Company** — Business Intelligence Engineer (Current)
-- **Coupang Fulfillment Services** — RP (Research & Planning)  
+- **Coupang Fulfillment Services** — RP (Research & Planning)
+  - 2024.08 ~ 2025.11 (15 months)
   - Supported data analysis for **Fresh South Region Center**
   - Built **Power BI dashboards** as a project
 
