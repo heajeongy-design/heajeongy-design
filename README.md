@@ -4,7 +4,7 @@ I’m a **BI Engineer** currently working at an IT solution company.
 I enjoy building data products that connect **data pipelines → analysis → visualization**.
 
 ### Experience
-- **IT Solution Company** — BI Engineer (Current)
+- **IT Solution Company** — Business Intelligence Engineer (Current)
 - **Coupang Fulfillment Services** — RP (Research & Planning)  
   - Supported data analysis for **Fresh South Region Center**
   - Built **Power BI dashboards** as a project
