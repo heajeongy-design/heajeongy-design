@@ -12,13 +12,13 @@ I enjoy building data products that connect **data pipelines → analysis → vi
 
 ### What I’m Learning
 **Work-related**
-- Azure Cloud fundamentals *(in progress)*
+- Azure Cloud fundamentals 
 - Azure Data fundamentals
 - Data workflow management
 - Database design
 
 ### Tech Stack
-SQL ｜ Python ｜ Power BI ｜ Azure *(in progress)*
+SQL ｜ Python ｜ Power BI ｜ Azure ｜ Fabric
 
 ### Goal
 To become a **Data Engineer** who can professionally handle the full data lifecycle:  
