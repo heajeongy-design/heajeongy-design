@@ -7,7 +7,8 @@ I focus on explaining **why** a design was chosen and **proving** it with reprod
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ecommerce-order-lifecycle-iceberg](https://github.com/heajeongy-design/ecommerce-order-lifecycle-iceberg)**<br>Personal project | Order lifecycle events → Kafka → Spark batch → S3 Bronze → Iceberg Silver/Gold, queried with Glue/Athena. Airflow runs a 15-min pipeline and daily Iceberg maintenance (health checks, conditional OPTIMIZE, VACUUM). | `Kafka` `Spark` `Iceberg` `S3` `Glue` `Athena` `Airflow` `Docker` |
+| **[ecommerce-order-lifecycle-iceberg](https://github.com/heajeongy-design/ecommerce-order-lifecycle-iceberg)**<br>Personal project · 2026.08 – 2026.09 | Order lifecycle events → Kafka → Spark batch → S3 Bronze → Iceberg Silver/Gold, queried with Glue/Athena. Airflow runs a 15-min pipeline and daily Iceberg maintenance (health checks, conditional OPTIMIZE, VACUUM). | `Kafka` `Spark` `Iceberg` `S3` `Glue` `Athena` `Airflow` `Docker` |
+| **[fabric-airport-congestion-ml-forecast](https://github.com/heajeongy-design/fabric-airport-congestion-ml-forecast)**<br>Personal project · 2026.07 | Airport congestion open API collected every 30 min on Microsoft Fabric. A OneLake FileCreated event triggers the Bronze/Silver/Gold pipeline (Append / MERGE / Overwrite), and a Spark ML Random Forest model predicts congestion 30 minutes ahead in Power BI. | `Microsoft Fabric` `PySpark` `Delta Lake` `Spark ML` `Power BI` |
 | **[fabric-manufacturing-lakehouse](https://github.com/heajeongy-design/fabric-manufacturing-lakehouse)**<br>Work · 2026.03 – 2026.06 | Manufacturing data platform on Microsoft Fabric: metadata-driven ingestion, Bronze/Silver/Gold marts, Power BI. Includes a fan-out bug fix and a local PySpark + Delta reproduction verified in CI. | `Microsoft Fabric` `PySpark` `Delta Lake` `T-SQL` `Power BI` |
 | **[synapse-dw-maintenance-cases](https://github.com/heajeongy-design/synapse-dw-maintenance-cases)**<br>Work · 2025.12 – 2026.03 | Maintenance of a running Azure Synapse sales DW: root-cause analysis of a Refresh OOM (duplicated DIM → join explosion), missing master data, schema inference failure, runtime upgrade refactoring. Each case reproduced locally. | `Azure Synapse` `Dedicated SQL Pool` `AAS` `PySpark` `Power BI` |
 
@@ -15,7 +16,7 @@ Company names in work projects are anonymized. No company data or credentials ar
 
 ### Experience
 
-**IT SI Company — Data Engineer**
+**IT Solution Company — Data Engineer**
 
 * Data Engineering & BI projects (Microsoft Fabric, Azure Synapse)
 * ETL/ELT pipelines and data processing
