@@ -15,7 +15,7 @@ Company names in work projects are anonymized. No company data or credentials ar
 
 ### Experience
 
-**IT Solution Company — Data Engineer**
+**IT SI Company — Data Engineer**
 
 * Data Engineering & BI projects (Microsoft Fabric, Azure Synapse)
 * ETL/ELT pipelines and data processing
